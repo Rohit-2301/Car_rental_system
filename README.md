@@ -177,7 +177,16 @@ Navigate through the dashboard to perform respective operations such as car mana
 
 ## Screenshots
 
+-**Login Page**
 ![image](https://github.com/user-attachments/assets/72b1cb8d-c44f-47ea-8120-4c619b4fb4f4)
+
+-**Admin Dashboard**
+![image](https://github.com/user-attachments/assets/07882e3a-ec84-4ef0-a3b4-ed6cb04ccd2a)
+
+-**Customer dashboard**
+![image](https://github.com/user-attachments/assets/5248fa67-6e42-4814-b525-397e09308d3c)
+
+
 
 
 ---
