@@ -177,7 +177,8 @@ Navigate through the dashboard to perform respective operations such as car mana
 
 ## Screenshots
 
-_Add GUI screenshots here showcasing the Login Page, Admin Dashboard, Customer Dashboard, etc._
+![image](https://github.com/user-attachments/assets/72b1cb8d-c44f-47ea-8120-4c619b4fb4f4)
+
 
 ---
 
